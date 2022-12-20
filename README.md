@@ -1,2 +1,2 @@
-# Weather-App
-App which tells about the weather of any place
+# Weather-Website
+Website which tells about the weather of any place
